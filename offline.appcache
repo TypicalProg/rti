@@ -1,12 +1,11 @@
 ﻿CACHE MANIFEST
-#1591724283
+#1591762358
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/player-sheet0.png
 images/ground.png
 images/tree-sheet0.png
-images/tilemap.png
 images/background.png
 images/platform1-sheet0.png
 images/platform2-sheet0.png
@@ -18,6 +17,8 @@ images/trader-sheet0.png
 images/key-sheet0.png
 images/deth_line-sheet0.png
 images/respawn-sheet0.png
+images/trampoline-sheet0.png
+images/tilemap.png
 icon-32.png
 loading-logo.jpg
 icon-114.jpg
@@ -25,5 +26,10 @@ icon-128.jpg
 icon-16.jpg
 icon-256.jpg
 icon-32.jpg
+icon-16.png
+icon-114.png
+icon-128.png
+icon-256.png
+loading-logo.png
 NETWORK:
 *
